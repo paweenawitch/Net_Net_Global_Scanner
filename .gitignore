@@ -1,0 +1,13 @@
+__pycache__/
+cache/
+data/
+public/
+.venv
+*.parquet
+*.csv
+*.xlsx
+*.db
+*.log
+.env
+/tools/reports
+/reports
