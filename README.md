@@ -1,6 +1,6 @@
 # **Global Net-Net Stock Scanner (Open Source)**
 
-A multidisciplinary project rooted in the tradition of Benjamin Graham and the quiet rationalism of Graham-and-Doddsville.
+A multidisciplinary project rooted in the tradition of Benjamin Graham and the rationalism of Graham-and-Doddsville.
 
 This is a fully automated global NCAV (Net Current Asset Value) scanner covering the U.S., Japan, and Hong Kong. I built it because manually searching for net-nets across markets was slow, fragmented, and error-prone. I wanted a transparent and reproducible system — something I wish I had when I first started studying deep-value investing.
 
