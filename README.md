@@ -110,7 +110,7 @@ Output: `data/tickers/ncav_shortlist.csv`
 python -m application.cli.main_fetch_full_cache --verbose
 ```
 You may skip this stage if you believe there is no need to update full cache after the first run.
-Output: 'cache/sec_core/' and 'cache/sec_insider/
+Output: 'cache/sec_core/' and 'cache/sec_insider/'
 
 **6. Run the screening engine**
 
