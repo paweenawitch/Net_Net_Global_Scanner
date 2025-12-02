@@ -107,7 +107,7 @@ Output: `data/tickers/ncav_shortlist.csv`
 **5. Fetch and refresh fundamentals**
 
 ```bash
-python -m application.cli.main_fetch_full_cache --verbose
+python -m application.cli.main_fetch_full_cache 
 ```
 You may skip this stage if you believe there is no need to update full cache after the first run.
 Output: 'cache/sec_core/' and 'cache/sec_insider/'
